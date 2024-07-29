@@ -223,3 +223,7 @@ footer{
 .que{
     padding: 34px 0;
 }
+@media screen and (max-width:1300px){
+    .firstcontent{
+        flex-wrap: wrap;
+    }
