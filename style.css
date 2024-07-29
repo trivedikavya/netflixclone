@@ -2,3 +2,8 @@
 
 /* . class mein # id mein simple official tag mein and * universal mein */
 
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
