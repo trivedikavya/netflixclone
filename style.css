@@ -215,3 +215,8 @@ footer{
     font-size: 14px;
     color: white;
 }
+.footer-iteam{
+   gap:23px;
+    display: flex;
+    flex-direction: column;
+}
