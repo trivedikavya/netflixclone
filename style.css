@@ -11,3 +11,12 @@
 body{
     background-color: black;
 }
+
+.main{
+    background-image: url("nassets/bgofnetflix.jpg"); 
+    height: 90vh;
+    position: relative;
+    background-size: max(1200px , 100vw);  /* zoom wala func jobada vo karega */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
