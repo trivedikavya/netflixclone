@@ -187,3 +187,8 @@ padding: 24px;
 max-width: 70vw;
 margin: 10px auto;
 }
+.fbox:hover{
+    
+    background-color: rgba(78, 73, 73, 0.644);
+  
+}
