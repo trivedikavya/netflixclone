@@ -271,3 +271,6 @@ footer{
         font-size: 32px;
 
     }
+ footer{
+ max-width: 90vw;
+    }
