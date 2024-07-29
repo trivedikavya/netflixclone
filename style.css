@@ -160,3 +160,7 @@ display: flex;
 flex-direction: column;
 padding: 34px 0;
 }
+section.firstcontent> div :nth-child(1){
+    font-size: 48px;
+    font-weight: bolder;
+}
