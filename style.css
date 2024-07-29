@@ -171,6 +171,7 @@ nav button{
  right: 57px;
  height: 237px;  
 }
+
 section.firstcontent> div{
 display: flex;
 flex-direction: column;
