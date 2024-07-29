@@ -38,4 +38,9 @@ nav{
     align-items: center;
     height: 100px;
 }
-
+nav img{
+    color: rgb(243, 7, 7);
+    width: 145px;
+   position: relative;   /* pop out hoke bahar */
+    z-index: 10;
+}
