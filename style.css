@@ -256,3 +256,10 @@ footer{
         font-size: 20px;
        
     }
+.centerofbtn{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }  
