@@ -84,3 +84,13 @@ nav button{
     position: relative;
     
 }
+.main input{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    padding: 7px 101px 8px 14px;
+    font-size: 12px;
+    /* font-weight: 900; */
+    border-radius: 4px;
+    background-color: rgb(23,23,23,0.7);
+    border: 1px solid rgb(247, 242, 242,0.5);
+}
