@@ -263,3 +263,6 @@ footer{
         align-items: center;
         gap: 16px;
     }  
+ .sep{
+        margin-top: 24px;
+    } 
