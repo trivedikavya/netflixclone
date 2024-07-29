@@ -1,2 +1,2 @@
 # netflix_clone
-clone using html and css only 
+  <h2>PREVIEW OF NETFLIX COLNE</h2>
