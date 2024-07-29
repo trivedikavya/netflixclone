@@ -230,6 +230,7 @@ footer{
     color: white;
     padding: 14px;
 }
+
 @media screen and (max-width:1300px){
    .footer{
     grid-template-columns: 1fr 1fr;
