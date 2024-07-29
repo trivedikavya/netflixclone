@@ -77,3 +77,10 @@ nav button{
     font-size: 20px;
     text-align: center;
 }
+.sep{
+ z-index: 20; 
+    height: 7px;
+    background-color:rgb(83, 83, 83);
+    position: relative;
+    
+}
