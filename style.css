@@ -111,3 +111,9 @@ nav button{
     cursor: pointer;
     border: 1px solid rgb(228, 225, 225);
 }
+.centerofbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
