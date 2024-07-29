@@ -274,3 +274,8 @@ footer{
  footer{
  max-width: 90vw;
     }
+ .footer-iteam{
+        align-items: center;
+
+    }
+}
