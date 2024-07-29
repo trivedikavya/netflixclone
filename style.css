@@ -140,3 +140,6 @@ nav button{
     max-width: 70vw;
     margin: auto;
 }
+.secimg{
+    position: relative;
+}
