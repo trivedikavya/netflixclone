@@ -20,3 +20,13 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.boxonbg{
+    height: 90vh ;
+    width: 100%;
+    opacity: 0.64;
+    position:absolute;
+    top:0%;
+    background-color: black;
+}
+
