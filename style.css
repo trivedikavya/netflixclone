@@ -211,3 +211,7 @@ footer{
     gap: 25px;
    }
 }
+.footer a{
+    font-size: 14px;
+    color: white;
+}
