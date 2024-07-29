@@ -94,3 +94,11 @@ nav button{
     background-color: rgb(23,23,23,0.7);
     border: 1px solid rgb(247, 242, 242,0.5);
 }
+.btn{
+    font-family: "Poppins", sans-serif;
+    padding: 3px 8px ;
+    font-weight: 400;
+    background-color: white;
+    cursor: pointer;
+    /* border: 1px solid rgb(228, 225, 225); */
+}
