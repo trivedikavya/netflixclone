@@ -44,3 +44,7 @@ nav img{
    position: relative;   /* pop out hoke bahar */
     z-index: 10;
 }
+nav button{
+    position: relative;   /* pop out hoke bahar */
+    z-index: 10;
+}
