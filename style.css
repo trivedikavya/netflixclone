@@ -234,3 +234,8 @@ footer{
        
         z-index: 10;
     }
+.secimg video{
+        width: 390px;
+       right: 23px;
+
+    }
