@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone It is responsive Also
   <h2>PREVIEW OF CLONE</h2>
 <img src="Screenshot (18).png " alt=" " >
 <img src="Screenshot (19).png " alt=" " >
